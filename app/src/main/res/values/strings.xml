@@ -1,3 +1,45 @@
 <resources>
     <string name="app_name">UTS_Stephanie</string>
+    <string name="nama">Stephanie</string>
+    <string name="nim">03081220016</string>
+    <string name="univ">UPH</string>
+    <string name="kota">Medan</string>
+    <string name="fakultas">Fakultas Ilmu Komputer</string>
+    <string name="jurusan">Jurusan Sistem Informasi</string>
+    <string name="tahun">Tahun ke 2</string>
+    <string name="sem">Semester 4</string>
+    <string name="jlhPoin">1708</string>
+    <string name="sep">Student Engagement Poin</string>
+    <string name="profil">Profil</string>
+    <string name="ubahProfil">Ubah Profil</string>
+    <string name="judulRiw">Riwayat SEP Poin</string>
+
+    <string name="poinSatu">24 SEP Poin</string>
+    <string name="poinDua">32 SEP Poin</string>
+    <string name="poinTiga">64 SEP Poin</string>
+
+    <string name="expo">Student Club Expo 2022</string>
+    <string name="tglexpo">12-09-2022</string>
+
+    <string name="fff">Fit For Future 2022</string>
+    <string name="tglfff">20-09-2022</string>
+
+    <string name="festival">UPH Festival 2022 UPHMC</string>
+    <string name="tglfestival">28-08-2022</string>
+
+    <string name="ecourt">Seminar Efektivitas E-Court</string>
+    <string name="tglecourt">29-10-2022</string>
+
+    <string name="judulProfil">Profil Mahasiswa</string>
+    <string name="hintNIM">Student ID</string>
+    <string name="hintNama">Nama</string>
+    <string name="hintJur">Jurusan</string>
+    <string name="hintThn">Tahun Masuk</string>
+    <string name="hintKampus">Kampus</string>
+
+    <string name="status">Status Mahasiswa</string>
+
+    <string name="submit">Submit</string>
+
+
 </resources>

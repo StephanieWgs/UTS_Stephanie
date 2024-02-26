@@ -13,6 +13,12 @@
         android:theme="@style/Theme.UTS_Stephanie"
         tools:targetApi="31">
         <activity
+            android:name=".ubahProfil"
+            android:exported="false" />
+        <activity
+            android:name=".riwayatSEP"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
